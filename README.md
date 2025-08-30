@@ -3,9 +3,12 @@
 # 🛍️ Multimodal RAG Customer Support System
 
 A **Retrieval-Augmented Generation (RAG)** system designed for **customer support** on product catalogs.  
-This project combines **textual product information** (descriptions, specifications, warranty details, FAQs) with **visual features** from product images to enable **multimodal question answering**.
+This project combines **textual product information** (descriptions, specifications, warranty details, FAQs)
+ with **visual features** from product images to enable **multimodal question answering**.
 
-Users can ask natural language queries (e.g., *“What is the warranty on the Garmin smartwatch?”* or *“Show me the red sneakers”*), and the system retrieves the most relevant product chunks (text + image embeddings) and generates accurate answers using an LLM.
+Users can ask natural language queries (e.g., *“What is the warranty on the Garmin smartwatch?”* or 
+*“Show me the red sneakers”*), and the system retrieves the most relevant product chunks (text + image embeddings) 
+and generates accurate answers using an LLM.
 
 ---
 

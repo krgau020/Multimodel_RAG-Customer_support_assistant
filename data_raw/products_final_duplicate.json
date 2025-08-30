@@ -1,0 +1,643 @@
+[
+  {
+    "asin": "B08N7RXCC6",
+    "name": "Citizen CZ Smart",
+    "category": "smartwatches",
+    "description": "Wear OS smartwatch with heart rate, GPS, speaker, Bluetooth, Google Pay.",
+    "image_url": "https://images.pexels.com/photos/277394/pexels-photo-277394.jpeg",
+    "support_data": {
+      "common_issues": [
+        "Band not detected",
+        "GPS signal drops out",
+        "Bluetooth fails to pair"
+      ],
+      "troubleshooting_steps": [
+        "Re-seat the watch band until it clicks firmly.",
+        "Ensure GPS has clear sky view; toggle GPS off/on.",
+        "Restart phone's Bluetooth and pair again via Wear OS app."
+      ],
+      "warranty": "12-month manufacturer warranty covering hardware faults",
+      "specifications": {
+        "battery_life": "24 hours normal, 48 hours battery saver",
+        "water_resistance": "3 ATM",
+        "display": "1.2-inch AMOLED"
+      },
+      "related_images": [
+        "https://images.pexels.com/photos/277396/pexels-photo-277396.jpeg"
+      ]
+    }
+  },
+  {
+    "asin": "B00Y3B7AHS",
+    "name": "JBL Flip 4",
+    "category": "speakers",
+    "description": "Waterproof portable Bluetooth speaker with stereo sound.",
+    "image_url": "https://images.pexels.com/photos/339465/pexels-photo-339465.jpeg",
+    "support_data": {
+      "common_issues": [
+        "Battery drains quickly",
+        "Pairs with only one device at a time"
+      ],
+      "troubleshooting_steps": [
+        "Fully charge the speaker for 3 hours.",
+        "Reset the speaker by holding volume + and Bluetooth buttons together for 5 seconds.",
+        "Update firmware using JBL Connect app."
+      ],
+      "warranty": "12-month limited warranty for manufacturing defects",
+      "specifications": {
+        "battery_capacity": "3000 mAh, ~12 hrs",
+        "waterproof_rating": "IPX7",
+        "connectivity": "Bluetooth 4.2, AUX in"
+      },
+      "related_images": [
+        "https://images.pexels.com/photos/339466/pexels-photo-339466.jpeg"
+      ]
+    }
+  },
+  {
+    "asin": "B07GXJZVQW",
+    "name": "Early Buy Sticky Notes 6-pack",
+    "category": "office_supplies",
+    "description": "Six bright-color sticky note pads (3\u00d73 in), 100 sheets each.",
+    "image_url": "https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg",
+    "support_data": {
+      "common_issues": [
+        "Edges curl after peeling",
+        "Ink smudges easily"
+      ],
+      "troubleshooting_steps": [
+        "Peel gently from one corner.",
+        "Use ballpoint pens rather than gel pens.",
+        "Store sheets in a flat container to retain adhesion."
+      ],
+      "warranty": "30-day satisfaction guarantee from seller",
+      "specifications": {
+        "pad_size": "3\u00d73 inches",
+        "sheet_count": 600,
+        "material": "Standard adhesive paper"
+      },
+      "related_images": [
+        "https://images.pexels.com/photos/733854/pexels-photo-733854.jpeg"
+      ]
+    }
+  },
+  {
+    "asin": "B0BN3QDZQC",
+    "name": "ORICO USB C Docking Station, 6-in-1 USB C Dongle",
+    "category": "computer_accessories",
+    "description": "A compact yet powerful 6-in-1 USB-C docking station offering HDMI, PD-charging, multiple USB-A ports, and high-speed data transfer — ideal for expanding laptop connectivity.",
+    "image_url": "https://images.pexels.com/photos/277394/pexels-photo-277394.jpeg",
+    "support_data": {
+      "common_issues": [
+        "HDMI display not detected",
+        "PD charging intermittent",
+        "USB devices not recognized"
+      ],
+      "troubleshooting_steps": [
+        "Ensure host device supports DisplayPort Alt Mode for HDMI output.",
+        "Use original 100 W USB-C charger and cable.",
+        "Re-seat USB-A devices and reboot hub."
+      ],
+      "warranty": "18-month limited warranty covering defects in materials and workmanship.",
+      "specifications": {
+        "HDMI": "4K@30Hz",
+        "USB-A ports": "3 × USB 3.0 (5 Gbps)",
+        "USB-C data port": "5 Gbps",
+        "USB-C PD input": "100 W",
+        "Dimensions": "3.65 × 1.78 × 0.7 inches"
+      },
+      "related_images": [
+        "https://images.pexels.com/photos/277396/pexels-photo-277396.jpeg"
+      ]
+    }
+  },
+  {
+    "asin": "B09ZKX5TVK",
+    "name": "Dell Inspiron 15.6\\\" FHD Touchscreen Business Laptop",
+    "category": "laptop_computer",
+    "description": "A durable business-class 15.6\" touchscreen laptop powered by 10th Gen Intel Core i5, 16 GB RAM and 1 TB HDD — optimized for multitasking, productivity, and seamless collaboration.",
+    "image_url": "https://images.pexels.com/photos/277394/pexels-photo-277394.jpeg",
+    "support_data": {
+      "common_issues": [
+        "Touchscreen unresponsive",
+        "Slow HDD performance",
+        "Battery drains quickly"
+      ],
+      "troubleshooting_steps": [
+        "Update touchscreen drivers via Dell SupportAssist.",
+        "Defragment HDD or consider SSD upgrade.",
+        "Enable ExpressCharge and reduce screen brightness."
+      ],
+      "warranty": "1-year standard warranty; optional extended coverage available.",
+      "specifications": {
+        "Processor": "Intel Core i5-1035G1 (up to 3.6 GHz)",
+        "RAM": "16 GB DDR4",
+        "Storage": "1 TB HDD",
+        "Display": "15.6\" FHD (1920×1080) touch",
+        "Weight": "3.94 lb"
+      },
+      "related_images": [
+        "https://images.pexels.com/photos/277396/pexels-photo-277396.jpeg"
+      ]
+    }
+  },
+  {
+    "asin": "B07RMHNL7Z",
+    "name": "SCREENPRO Universal Full Motion Ceiling Projector Mount",
+    "category": "projector_mounts",
+    "description": "An adjustable, full-motion ceiling mount for projectors with tilt, swivel, and rotation; supports up to 22 lb and heights from 33\" to 59\" — suitable for home and office setups.",
+    "image_url": "https://images.pexels.com/photos/277394/pexels-photo-277394.jpeg",
+    "support_data": {
+      "common_issues": [
+        "Mount feels loose over time",
+        "Too much wobble when tilting",
+        "Installation hardware not compatible"
+      ],
+      "troubleshooting_steps": [
+        "Tighten all screws after first week of use.",
+        "Use locking washers for tilt joints.",
+        "Ensure anchors match ceiling type; use toggles for drywall."
+      ],
+      "warranty": "2-year limited warranty covering structural failures.",
+      "specifications": {
+        "Height adjustment": "33–59 inches",
+        "Rotation": "360°",
+        "Tilt": "±30°",
+        "Swivel": "±10°",
+        "Max weight": "22 lb"
+      },
+      "related_images": [
+        "https://images.pexels.com/photos/277396/pexels-photo-277396.jpeg"
+      ]
+    }
+  },
+  {
+    "asin": "B08NXYQFBS",
+    "name": "Brilliant Smart Dimmer Switch (Light Almond)",
+    "category": "smart_home_products",
+    "description": "A smart wall dimmer switch that integrates with voice assistants and smart home platforms; supports motion sensing, scenes, timers, and remote control via app.",
+    "image_url": "https://images.pexels.com/photos/277394/pexels-photo-277394.jpeg",
+    "support_data": {
+      "common_issues": [
+        "Switch unresponsive to app",
+        "Alexa or Google commands not recognized",
+        "Dimmer flickers at low brightness"
+      ],
+      "troubleshooting_steps": [
+        "Ensure switch is on same Wi-Fi as phone app.",
+        "Re-link voice assistant and Brilliant skill.",
+        "Enable soft-start mode in advanced settings."
+      ],
+      "warranty": "1-year limited warranty including electronics and parts.",
+      "specifications": {
+        "Max load": "500 W incandescent / 200 W LED/CFL",
+        "Compatibility": "Alexa, Google Assistant, HomeKit, SmartThings, Hue",
+        "Features": "Motion, Scenes, Timers, Voice control"
+      },
+      "related_images": [
+        "https://images.pexels.com/photos/277396/pexels-photo-277396.jpeg"
+      ]
+    }
+  },
+  {
+    "asin": "B0B71NYX8Z",
+    "name": "HAPPRUN Native 1080P Portable Projector with 5G WiFi & Bluetooth",
+    "category": "projectors",
+    "description": "A portable native 1080p projector with fast 5 GHz Wi-Fi, Bluetooth audio, multiple input options, and included screen and bag — offering up to 300-inch projection for outdoor or home use.",
+    "image_url": "https://images.pexels.com/photos/277394/pexels-photo-277394.jpeg",
+    "support_data": {
+      "common_issues": [
+        "Wi-Fi connection drops",
+        "Bluetooth audio out of sync",
+        "Image focus not sharp"
+      ],
+      "troubleshooting_steps": [
+        "Restart router and select 5 GHz network.",
+        "Reconnect Bluetooth device and adjust delay in settings.",
+        "Use manual focus wheel and ensure projector distance is correct."
+      ],
+      "warranty": "36-month service warranty with 24-hour support.",
+      "specifications": {
+        "Resolution": "Native 1920×1080 (1080p)",
+        "Wi-Fi": "5 GHz support",
+        "Audio": "Built-in Hi-Fi speaker + Bluetooth 5.1",
+        "Max throw size": "300 inches",
+        "Ports": "2 × USB, 2 × HDMI, AV, VGA"
+      },
+      "related_images": [
+        "https://images.pexels.com/photos/277396/pexels-photo-277396.jpeg"
+      ]
+    }
+  },
+  {
+    "asin": "B0BJVML1N8",
+    "name": "POWMUS Android 12 Tablet 10.4-inch, 6 GB RAM, 128 GB",
+    "category": "tablets",
+    "description": "A feature-rich Android 12 tablet with 10.4\" FHD IPS display, 6 GB RAM, 128 GB storage (expandable to 1 TB), dual-band Wi-Fi, GPS, parental control, and full accessory bundle — great for family and learning.",
+    "image_url": "https://images.pexels.com/photos/277394/pexels-photo-277394.jpeg",
+    "support_data": {
+      "common_issues": [
+        "Wi-Fi 5 GHz not connecting",
+        "Tablet getting hot during gaming",
+        "Stylus not responding"
+      ],
+      "troubleshooting_steps": [
+        "Ensure router is set to WPA2 and 5 GHz enabled.",
+        "Close background apps and reduce screen brightness.",
+        "Re-pair stylus, charge if applicable."
+      ],
+      "warranty": "2-year warranty covering hardware defects.",
+      "specifications": {
+        "OS": "Android 12",
+        "Display": "10.4\" FHD 1920×1200 IPS",
+        "RAM / Storage": "6 GB / 128 GB (expandable to 1 TB)",
+        "Battery": "8000 mAh",
+        "Additional": "13 MP rear + 8 MP front camera, GPS, Bluetooth 5.0"
+      },
+      "related_images": [
+        "https://images.pexels.com/photos/277396/pexels-photo-277396.jpeg"
+      ]
+    }
+  },
+  {
+    "asin": "B0C5CTK6VW",
+    "name": "TechMatte USB C to Lightning Adapter (2-pack)",
+    "category": "office_electronics",
+    "description": "A convenient 2-pack of USB-C to Lightning adapters supporting 27 W PD fast charging and data transfer; includes anti-lost ropes — perfect for travel or charging iOS devices via modern USB-C ports.",
+    "image_url": "https://images.pexels.com/photos/277394/pexels-photo-277394.jpeg",
+    "support_data": {
+      "common_issues": [
+        "Adapter gets hot during charging",
+        "Data sync fails intermittently",
+        "Adapter falls off easily"
+      ],
+      "troubleshooting_steps": [
+        "Use with Apple-certified PD charger and cable.",
+        "Try alternate USB-C cable; enable USB data on host.",
+        "Ensure anti-loss rope anchored securely."
+      ],
+      "warranty": "1-year warranty including defects and functionality.",
+      "specifications": {
+        "Fast charging": "Up to 27 W (9 V/3 A)",
+        "Compatibility": "iPhone 12–14, iPad, AirPods, older iPhones",
+        "Features": "Data transfer + charging, anti-loss rope included",
+        "Material": "Aluminum surface for heat dissipation"
+      },
+      "related_images": [
+        "https://images.pexels.com/photos/277396/pexels-photo-277396.jpeg"
+      ]
+    }
+  },
+  {
+    "asin": "B0BFC9X3X3",
+    "name": "QNAP TVS-h474-PT-8G-US 4 Bay High-Speed Desktop NAS",
+    "category": "computer_data_storage",
+    "description": "High-speed 4-bay desktop NAS with Intel Pentium Gold 2-core CPU, 8GB DDR4 RAM, 2.5 GbE networking, PCIe Gen 4 expandability (diskless).",
+    "image_url": "https://m.media-amazon.com/images/I/41twyYCBGbL._AC_SY879_.jpg",
+    "support_data": {
+      "common_issues": [
+        "NAS not detected on network",
+        "Slow file transfer speeds",
+        "PCIe expansion card not recognized"
+      ],
+      "troubleshooting_steps": [
+        "Check Ethernet connections and restart router.",
+        "Update NAS firmware and drivers.",
+        "Reseat PCIe expansion card and reboot NAS."
+      ],
+      "warranty": "3-year limited manufacturer warranty covering hardware defects",
+      "specifications": {
+        "Processor": "Intel Pentium Gold G7400 2-core / 4-thread 3.7 GHz",
+        "RAM": "8 GB DDR4 (expandable up to 64GB)",
+        "Storage": "4-bay diskless",
+        "Network": "Dual 2.5 GbE ports",
+        "USB Ports": "Multiple USB 3.2 Gen2 Type-A & Type-C",
+        "HDMI": "HDMI 1.4b (4K @30Hz)",
+        "PCIe": "Gen 4 expandability"
+      },
+      "related_images": [
+        "https://m.media-amazon.com/images/I/41twyYCBGbL._AC_SY879_.jpg"
+      ]
+    }
+  },
+  {
+    "asin": "B005J0HRES",
+    "name": "QualGear QG-PM-002-BLK Universal Projector Ceiling Mount",
+    "category": "projector_mounts",
+    "description": "Adjustable universal projector ceiling mount, black; supports tilt, swivel, height adjustment, and cable management.",
+    "image_url": "https://m.media-amazon.com/images/I/311e9ybUvoL._AC_.jpg",
+    "support_data": {
+      "common_issues": [
+        "Mount feels loose after installation",
+        "Projector alignment off",
+        "Cable management clips break"
+      ],
+      "troubleshooting_steps": [
+        "Tighten all screws and bolts.",
+        "Adjust pitch and pivot angles carefully.",
+        "Use supplied cable clips and check compatibility."
+      ],
+      "warranty": "2-year limited warranty covering manufacturing defects",
+      "specifications": {
+        "Material": "Cold-rolled steel",
+        "Height Adjustment": "16.9 - 25.6 inches",
+        "Angle Adjustments": "Pitch ±15°, Pivot ±10°",
+        "Compatible Projectors": "Most projectors with 1\"-17.5\" mounting holes",
+        "Color": "Black"
+      },
+      "related_images": [
+        "https://m.media-amazon.com/images/I/311e9ybUvoL._AC_.jpg"
+      ]
+    }
+  },
+  {
+    "asin": "B09NN2KWNV",
+    "name": "Tablet 10 Inch 3GB RAM, Octa-Core Android 10.0 Tablet",
+    "category": "tablets",
+    "description": "10.1'' Android 10.0 tablet with Octa-Core processor, 3GB RAM, 32GB storage (expandable 128GB), dual-band WiFi, 5MP front/13MP rear cameras, GPS, Bluetooth.",
+    "image_url": "https://m.media-amazon.com/images/I/71HskWXBzGL._AC_SX679_.jpg",
+    "support_data": {
+      "common_issues": [
+        "Wi-Fi drops on 5GHz",
+        "Tablet heats up during extended gaming",
+        "Stylus not responsive"
+      ],
+      "troubleshooting_steps": [
+        "Ensure router supports dual-band 2.4/5 GHz.",
+        "Close background apps and reduce screen brightness.",
+        "Re-pair or recharge stylus if needed."
+      ],
+      "warranty": "1-year manufacturer warranty covering hardware defects",
+      "specifications": {
+        "OS": "Android 10.0",
+        "Processor": "Octa-Core 1.6 GHz",
+        "RAM": "3 GB",
+        "Storage": "32 GB ROM, expandable to 128 GB",
+        "Screen Size": "10.1 Inches HD IPS",
+        "Rear Camera": "13 MP",
+        "Front Camera": "5 MP",
+        "Battery": "6000 mAh",
+        "Connectivity": "WiFi 2.4G/5G, Bluetooth 4.2",
+        "Dimensions": "9.53 x 6.38 x 0.35 inches"
+      },
+      "related_images": [
+        "https://m.media-amazon.com/images/I/71HskWXBzGL._AC_SX679_.jpg"
+      ]
+    }
+  },
+  {
+    "asin": "B0C4F7V2K7",
+    "name": "Saomil 910 910XL Ink Cartridges Combo Pack",
+    "category": "office_electronics",
+    "description": "Replacement HP 910XL ink cartridges combo pack (Black, Cyan, Magenta, Yellow) with smart chips for instant recognition and high-yield printing.",
+    "image_url": "https://m.media-amazon.com/images/I/71udg8s5cXL._AC_SX679_.jpg",
+    "support_data": {
+      "common_issues": [
+        "Printer not recognizing cartridge",
+        "Low ink warnings despite full cartridge",
+        "Cartridge leaks during installation"
+      ],
+      "troubleshooting_steps": [
+        "Ensure smart chip is correctly seated in printer.",
+        "Shake cartridge gently before installation.",
+        "Clean printer contacts before inserting."
+      ],
+      "warranty": "30-day satisfaction guarantee / 1-year coverage for defects",
+      "specifications": {
+        "Ink Colors": "Black, Cyan, Magenta, Yellow",
+        "Page Yield": "Black ~1200 pages, Color ~1000 pages each",
+        "Compatibility": "HP OfficeJet Pro 8020/8024e/8025/8028/8035 and OfficeJet 8010/8015 series",
+        "Features": "High-yield, smart chip for recognition",
+        "Pack Size": "4 cartridges"
+      },
+      "related_images": [
+        "https://m.media-amazon.com/images/I/71udg8s5cXL._AC_SX679_.jpg"
+      ]
+    }
+  },
+  {
+    "asin": "B09Q5YB6P1",
+    "name": "Fidget Notebook, Push Pop Bubble Fidget Sensory Toy",
+    "category": "office_and_school_supplies",
+    "description": "Spiral notebook with push-pop sensory bubbles for stress relief; suitable for school, office, or personal use.",
+    "image_url": "https://m.media-amazon.com/images/I/81IxzRNf78L._AC_SX679_.jpg",
+    "support_data": {
+      "common_issues": [
+        "Pop bubbles tear with excessive force",
+        "Cover edges fray after prolonged use",
+        "Notebook pages stick together"
+      ],
+      "troubleshooting_steps": [
+        "Press bubbles gently to avoid tearing.",
+        "Store notebook in a flat position.",
+        "Keep notebook away from moisture."
+      ],
+      "warranty": "30-day satisfaction guarantee from seller",
+      "specifications": {
+        "Brand": "STONGBO",
+        "Color": "Light Blue",
+        "Material": "Silicone bubbles on notebook cover",
+        "Pages": "College ruled",
+        "Dimensions": "8 x 6.3 x 0.9 inches",
+        "Age Range": "3+ years",
+        "Number of Items": "1"
+      },
+      "related_images": [
+        "https://m.media-amazon.com/images/I/81IxzRNf78L._AC_SX679_.jpg"
+      ]
+    }
+  },
+  {
+    "asin": "B074KBWL9J",
+    "name": "Garmin 010-01769-01 Vivoactive 3 Smartwatch",
+    "category": "smartwatches",
+    "description": "Garmin Vivoactive 3 GPS smartwatch with Garmin Pay, built-in sports apps, heart rate monitor, and smartphone notifications. Unisex, durable, with customizable watch faces.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/51TSoZg041L._AC_SX679_.jpg",
+    "support_data": {
+      "common_issues": [
+        "Watch not syncing with Garmin Connect app",
+        "Garmin Pay not working with certain bank cards",
+        "Battery drains faster than expected",
+        "GPS signal weak or inaccurate",
+        "Heart rate sensor not showing readings correctly"
+      ],
+      "troubleshooting_steps": [
+        "Ensure Bluetooth is enabled and phone is compatible.",
+        "Remove and re-add cards in Garmin Pay setup.",
+        "Restart the watch and perform a software update.",
+        "Calibrate GPS outdoors with clear view of the sky.",
+        "Clean the back sensor and wear snugly on wrist."
+      ],
+      "warranty": "1-year limited warranty for manufacturing defects",
+      "specifications": {
+        "Brand": "Garmin",
+        "Model": "Vivoactive 3",
+        "Color": "Black, Silver",
+        "Screen Size": "1.2 Inches",
+        "Special Features": "GPS, Heart Rate Monitor, Notifications, Garmin Pay, Daily Workout Memory",
+        "Battery Life": "Up to 7 days in smartwatch mode, 13 hours in GPS mode",
+        "Target Audience": "Unisex Adult",
+        "Compatible Devices": "Smartphone",
+        "Display Type": "240 x 240 pixels",
+        "Band Material": "Leather"
+      },
+      "related_images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51TSoZg041L._AC_SX679_.jpg"
+      ]
+    }
+  },
+  {
+    "asin": "B0C2CQX3TP",
+    "name": "Ejet 932XL 933XL Ink Cartridges Combo Pack",
+    "category": "office_electronics",
+    "description": "High-yield replacement ink cartridges for HP 932XL/933XL printers (Black, Cyan, Magenta, Yellow). ISO-certified for sharp prints and high compatibility.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61ZLkYwUwtL._AC_SX679_.jpg",
+    "support_data": {
+      "common_issues": [
+        "Printer not recognizing new cartridge",
+        "Low ink warnings despite new cartridge",
+        "Prints streaky or faded colors",
+        "Cartridge leaks during installation",
+        "Cartridge not fitting properly"
+      ],
+      "troubleshooting_steps": [
+        "Ensure cartridge is fully seated and chip is clean.",
+        "Shake cartridge gently before installation.",
+        "Clean printer contacts with a lint-free cloth.",
+        "Run printer nozzle cleaning cycle.",
+        "Verify cartridge model matches printer requirements."
+      ],
+      "warranty": "30-day satisfaction guarantee / 1-year coverage for defects",
+      "specifications": {
+        "Brand": "Ejet",
+        "Model": "932XL 933XL Combo Pack",
+        "Ink Colors": "Black, Cyan, Magenta, Yellow",
+        "Page Yield": "Black ~1000 pages, Color ~825 pages each",
+        "Compatibility": "HP OfficeJet 6100, 6600, 6700, 7110, 7610, 7612 series",
+        "Features": "High Yield, ISO-certified for quality printing",
+        "Pack Size": "5 cartridges (2 Black, 1 Cyan, 1 Magenta, 1 Yellow)"
+      },
+      "related_images": [
+        "https://images-na.ssl-images-amazon.com/images/I/61ZLkYwUwtL._AC_SX679_.jpg"
+      ]
+    }
+  },
+  {
+    "asin": "B0C23ZY68Y",
+    "name": "VASAJEEVANI Beware Of Smartphone Zombies Tin Sign",
+    "category": "smart_home_products",
+    "description": "Retro metal tin sign (8x12 in) for home, office, or restaurant decor. Pre-drilled holes, high-quality aluminum, and versatile gift option for multiple occasions.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61EpxhcoEKL._AC_SY879_.jpg",
+    "support_data": {
+      "common_issues": [
+        "Holes do not align with standard nails",
+        "Sign bends during shipping",
+        "Surface scratches easily",
+        "Double-sided tape does not stick on rough walls",
+        "Color fades under direct sunlight"
+      ],
+      "troubleshooting_steps": [
+        "Use screws or anchors suitable for wall type.",
+        "Handle edges carefully while mounting.",
+        "Wipe gently with a soft cloth to clean.",
+        "Apply tape on smooth, dry surface.",
+        "Mount indoors or away from direct sunlight to preserve color."
+      ],
+      "warranty": "90-day limited warranty for manufacturing defects",
+      "specifications": {
+        "Brand": "VASAJEEVANI",
+        "Material": "Aluminum / Tin",
+        "Color": "Bl-3",
+        "Dimensions": "8 x 12 inches (20 x 30 cm)",
+        "Mounting Type": "Wall Mount with pre-drilled holes",
+        "Theme": "Art / Retro",
+        "Suitable For": "Home, Office, Restaurants, Gift"
+      },
+      "related_images": [
+        "https://images-na.ssl-images-amazon.com/images/I/61EpxhcoEKL._AC_SY879_.jpg"
+      ]
+    }
+  },
+  {
+    "asin": "B08V73RQJK",
+    "name": "Mount-It! Projector Tripod Stand",
+    "category": "projector_mounts",
+    "description": "Adjustable projector tripod stand with tilting tray, anti-skid feet, and portable nylon carrying case. Fits projectors up to 11x15 inches and up to 13 lbs weight.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71OdOj3xbeL._AC_SX679_.jpg",
+    "support_data": {
+      "common_issues": [
+        "Tripod wobbles on carpet or uneven surfaces",
+        "Tray not tilting properly",
+        "Carrying case zipper jams",
+        "Height adjustment is stiff or stuck",
+        "Mounting projector securely is difficult"
+      ],
+      "troubleshooting_steps": [
+        "Ensure locking legs are fully extended and secured.",
+        "Check tilt mechanism and remove any debris.",
+        "Lubricate carrying case zipper if stuck.",
+        "Loosen adjustment knobs slightly and try again.",
+        "Use straps included to secure projector tightly."
+      ],
+      "warranty": "1-year limited warranty for manufacturing defects",
+      "specifications": {
+        "Brand": "Mount-It!",
+        "Material": "Nylon, Metal",
+        "Color": "Black",
+        "Dimensions": "14 x 54.5 inches",
+        "Max Load": "13 lbs",
+        "Height Range": "1.5 to 3 feet",
+        "Base Type": "Leg",
+        "Portable": "Yes, disassembles into 3 pieces with carrying case"
+      },
+      "related_images": [
+        "https://images-na.ssl-images-amazon.com/images/I/71OdOj3xbeL._AC_SX679_.jpg"
+      ]
+    }
+  },
+  {
+    "asin": "B0B5FL3L6G",
+    "name": "Synology 24-Bay FlashStation FS3410 (Diskless)",
+    "category": "computer_data_storage",
+    "description": "High-performance Synology FS3410 24-bay flash storage solution with iSCSI 4K random read/write IOPS, VMware and Hyper-V certified, Gigabit and 10GbE ports, for servers and high availability applications.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61Tn3Tp+RcL._AC_SX679_.jpg",
+    "support_data": {
+      "common_issues": [
+        "Server does not detect disks",
+        "Network connectivity slow or intermittent",
+        "Firmware update fails",
+        "RAID configuration errors",
+        "Power supply issues during high I/O"
+      ],
+      "troubleshooting_steps": [
+        "Ensure disks are properly seated and compatible.",
+        "Check cables and network switch settings.",
+        "Use Synology Assistant to update firmware.",
+        "Verify RAID configuration before initializing.",
+        "Ensure sufficient power supply and UPS backup."
+      ],
+      "warranty": "5-year limited warranty from Synology",
+      "specifications": {
+        "Brand": "Synology",
+        "Series": "FS3410",
+        "Material": "Information Not Available",
+        "Dimensions": "36 x 27.25 x 10 inches",
+        "Weight": "42 lbs",
+        "Hard Drive": "Mechanical Hard Disk, USB 3.0 Interface",
+        "Compatible Devices": "Servers",
+        "Country of Origin": "Taiwan"
+      },
+      "related_images": [
+        "https://images-na.ssl-images-amazon.com/images/I/61Tn3Tp+RcL._AC_SX679_.jpg"
+      ]
+    }
+  }
+]
+
+
+
+
+
+
+
+

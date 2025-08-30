@@ -1,0 +1,25 @@
+# pip install langchain==0.1.178
+# pip install faiss-cpu==1.7.4
+# pip install openai
+# pip install sentence-transformers
+# pip install transformers
+# pip install Pillow
+# pip install pydantic
+# pip install PyYAML
+
+
+pip install langchain faiss-cpu==1.7.4 openai sentence-transformers transformers Pillow pydantic PyYAML numpy<2 langchain_community
+langchain_google_genai dotenv fastapi
+
+pip install fastapi uvicorn python-multipart pydantic
+
+streamlit
+
+
+
+
+langchain_huggingface  -- RAG _text
+
+
+
+pip install ragas

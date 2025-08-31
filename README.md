@@ -1,5 +1,5 @@
 
-````markdown
+````markdown 
 # 🛍️ Multimodal RAG Customer Support System
 
 A **Retrieval-Augmented Generation (RAG)** system designed for **customer support** on product catalogs.  
